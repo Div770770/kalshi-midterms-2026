@@ -27,6 +27,17 @@ Of the 457 races settled so far, the side the prices favored won 440. 18 races h
 
 16 of the 17 upsets were Democratic wins over a Republican favorite.
 
+## What the prices implied
+
+Read each favorite's election day price as its chance of winning and add up the chances of losing. That sum is the number of misses the prices implied. Races move together in a national swing, so the real count can land well away from it.
+
+| Races | Settled | Misses implied | Misses |
+|---|---:|---:|---:|
+| All settled races | 457 | 30.6 | 17 |
+| Democratic favorites | 263 | 14.4 | 1 |
+| Republican favorites | 194 | 16.2 | 16 |
+| Favorites priced at 90% and up | 377 | 10.0 | 0 |
+
 ## The 17 races the favorite lost
 
 Longest shot first. The winner's price is the chance Kalshi's market gave it on election day.
