@@ -87,3 +87,5 @@ Longest shot first. The winner's price is the chance Kalshi's market gave it on 
 The data is free to use under CC BY 4.0. Please credit EVDESK and link to https://evdesk.ai/markets/midterms-2026
 
 Published by [EVDESK](https://evdesk.ai), an independent trading desk for Kalshi traders. Questions and corrections: support@evdesk.ai
+
+The count is updated as the last races settle. Updates go out on X at [@EVDESK1](https://x.com/EVDESK1).
